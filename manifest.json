@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Chromenesia",
+  "version": "1.0",
+  "description": "Chrome has amnesia. Each time you close a tab or the browser itself, it's history is forgotten!",
+  "permissions": [
+    "history"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "author": "Mauro Cunha",
+  "icons": {
+    "16": "icons/Chromenesia_logo_16x16.png",
+    "48": "icons/Chromenesia_logo_48x48.png",
+    "128": "icons/Chromenesia_logo_128x128.png"
+  }
+}
