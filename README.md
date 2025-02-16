@@ -1,7 +1,8 @@
 # Chromenesia
 
 Chromenesia is a *very* simple Google Chrome extension for browser history deletion, developed with JavaScript and Chrome Extensions API.
-It's an intro project to Chrome extensions.
+
+_An introductory project to Chrome extensions._
 
 <img src="https://github.com/cunhamauro/Chromenesia_Extension/blob/master/icons/Chromenesia_logo.png?raw=true" width="300">
 
