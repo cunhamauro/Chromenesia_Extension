@@ -14,5 +14,3 @@ chrome.tabs.onRemoved.addListener(() => {
 chrome.runtime.onSuspend.addListener(() => {
     clearHistory();
 });
-
-// Author: Mauro Cunha
